@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Myroslav 👋
 
-<!--
-**Myroslav-Kuklyshyn/Myroslav-Kuklyshyn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 IT student & Junior Software Developer  
+💻 Interested in Web Development and IoT  
+🌱 Constantly learning and building pet projects
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- JavaScript
+- React
+- Python
+- C++
+- C#
+- HTML & CSS
+- Git & GitHub
+- ESP / IoT basics
+
+---
+
+## 📌 Projects
+- 🔹 Web applications using React & JavaScript
+- 🔹 Python scripts and small backend tools
+- 🔹 IoT projects based on ESP (sensors, data collection)
+
+(Projects will be added and improved continuously)
+
+---
+
+## 📫 Contacts
+- LinkedIn: https://www.linkedin.com/in/myroslav-kuklyshyn-811202226/
