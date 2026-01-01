@@ -29,3 +29,5 @@
 
 ## 📫 Contacts
 - LinkedIn: https://www.linkedin.com/in/myroslav-kuklyshyn-811202226/
+- Instagram: https://www.instagram.com/slav___ik
+- Telegram: https://t.me/slav_ik0
